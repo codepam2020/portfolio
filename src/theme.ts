@@ -8,6 +8,7 @@ const theme = {
       main_background: "#1e1f26",
       logo: "#61dafb",
       title_text: "red",
+      normal_text: "#ffffff",
     },
     size: size,
   },
