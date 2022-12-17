@@ -1,10 +1,10 @@
 import React from 'react';
-import styled, { ThemeProvider } from 'styled-components';
+import { ThemeProvider } from 'styled-components';
 import theme from './theme';
 import { Main } from './screens';
 
 
-function App() {
+function App () {
   return (
     <ThemeProvider theme={theme.dark_theme}>
       <Main />
