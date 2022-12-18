@@ -29,7 +29,7 @@ module.exports = {
         },
       },
       animation: {
-        cchange: "colorChange 10s linear infinite",
+        cchange: "colorChange 30s linear infinite",
       },
       minHeight: {
         40: "10rem",
